@@ -1,0 +1,45 @@
+body {
+  background-color: #d1e9ce;
+  padding: 50px;
+}
+
+hr {
+  border-color: #ffe3a9;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1 {
+    color: #57a1a1;
+    text-shadow: 2px 2px 5px #ddb442;
+    font-family: "Marker Felt", fantasy;
+}
+
+h3 {
+    color: #e9be49;
+    text-shadow: 2px 2px 5px #05DFD7;
+    font-family: "URW Chancery L", cursive;
+}
+
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container1 td {
+  margin: 0 100px;
+}
+
+.bio {
+  text-align: center;
+}
+
+#profile-pic {
+  border: solid;
+  border-color: #665A48;
+  border-radius: 50%;
+  border-width: 1px;
+  /* height: 350px;
+  width: 280px; */
+}
